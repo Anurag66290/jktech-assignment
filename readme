@@ -22,8 +22,3 @@ step:4 - run api's routes are:-
                                 method : GET
 9) update bucket -              url(local): http://localhost:3000/bucket/updateBucket/:id
                                 method : PUT
-
-
-for testing postman collection link :-
-
-https://api.postman.com/collections/32355213-eeb21ad7-bfb4-41de-bcfa-2e3d892c8537?access_key=PMAT-01HTCG83EE09TY1MAF0VXBBPJ4
