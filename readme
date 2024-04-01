@@ -1,5 +1,0 @@
-To the run the server and api's please follow the steps:
-
-step:1 - clone the repository by using (git clone respoistary-name)
-step:2 - npm install (run the command in terminal)
-step:3 - npm start (for starting the server)
