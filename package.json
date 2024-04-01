@@ -1,0 +1,20 @@
+{
+  "name": "jktech-assignment",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-fileupload": "^1.5.0",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "mongoose": "^8.2.4",
+    "morgan": "~1.9.1",
+    "nodemon": "^3.1.0"
+  }
+}
