@@ -22,3 +22,4 @@ step:4 - run api's routes are:-
                                 method : GET
 9) update bucket -              url(local): http://localhost:3000/bucket/updateBucket/:id
                                 method : PUT
+
